@@ -42,4 +42,4 @@ I'm a Software Developer passionate about building scalable web applications. I 
 
 ## 🎉 Thanks for Visiting!
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=RohitPatel12)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=RohitPatel12.RohitPatel12)
