@@ -45,6 +45,8 @@
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?logo=google-chrome&logoColor=white)](https://itsrp.vercel.app)
 <!-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle) -->
 
 ## 🎉 Thanks for Visiting!
