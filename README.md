@@ -1,54 +1,71 @@
-# Hi there, I'm Rohit Patel! 👋
+# 👋 Hi there, I'm Rohit Patel!  
 
-## About Me
-🚀 Full-Stack Developer | 🎨 UI/UX Enthusiast | 🖌️ React Specialist
+> _"Coding is 10% writing code, 90% Googling why my code doesn’t work."_ 🤦‍♂️  
 
-- 🔭 I’m currently working at TCS.
-- 👯 I’m looking to collaborate
-- 📫 How to reach me: itsrohitkpatel@gmail.com.
-- ⚡ Fun fact: I’ve turned procrastination into an art form, but somehow still get things done!.
+💻 **Full-Stack Developer | 4+ Years Experience**  
+⚡ Backend: **Java + Spring Boot (Microservices, JWT, Redis, MongoDB, PostgreSQL)**  
+🎨 Frontend: **React / Next.js + TailwindCSS**  
+☁️ DevOps: **Docker, AWS, GitHub Actions, Kubernetes**  
 
-## 🛠️ Technologies & Tools
+---
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+## 😎 About Me  
+- 🚀 Backend wizard by day (**Spring Boot, microservices**)  
+- ⚛️ Frontend tinkerer by night (**React & Next.js**)  
+- 🐳 Accidentally broke production once... now I call it **DevOps experience**  
+- ☕ Powered by **coffee, dark mode, and console logs**  
+- 🛠️ I sometimes over-engineer things that could’ve been solved with 2 lines of code 🙃  
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-<!-- ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) -->
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
+---
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-<!-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) -->
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+## 🚀 Tech Stack  
 
-## 📈 GitHub Stats
+### 🔧 Backend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,redis&perline=6" height="44" />
+</p>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohitPatel12&show_icons=true&theme=radical)
+### 🎨 Frontend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js&perline=6" height="44" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitPatel12&layout=compact&theme=radical)
+### ☁️ DevOps & Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,kubernetes,git,idea,vscode&perline=7" height="44" />
+</p>
 
-## 📫 Let's Connect!
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?logo=google-chrome&logoColor=white)](https://itsrp.vercel.app)
-<!-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle) -->
+## 🎉 Fun Fact  
+- My code works **99% of the time on my machine**  
+- I once fixed a bug by calling it a “feature” 😅  
+- Variables start as `foo`, `bar`, but somehow end up in production 🤦‍♂️  
 
-## 🎉 Thanks for Visiting!
+---
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=RohitPatel12.RohitPatel12&color=blue&label=Visitors)
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RohitPatel12&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitPatel12&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitPatel12&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Let’s Connect!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://itsrp.vercel.app)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)  
+
+---    
+
+## 🌟 Motto  
+_"If it compiles, ship it. If it runs, celebrate. If it breaks… well, that’s why we have GitHub Issues."_ 🚀  
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=RohitPatel12.RohitPatel12&color=blue&label=Visitors)  
